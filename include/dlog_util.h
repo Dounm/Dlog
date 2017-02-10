@@ -1,10 +1,10 @@
 /**
-* @file util.cpp
+* @file dlog_util.h
 * @author Chong Niu <niuchong893184@gmail.com>
 */
 
-#ifndef UTIL_H
-#define UTIL_H
+#ifndef DLOG_UTIL_H
+#define DLOG_UTIL_H
 
 #include <string>
 

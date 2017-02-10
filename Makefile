@@ -4,7 +4,7 @@ CXXFLAGS = -std=c++11 -fPIC -O3 -Wall -finline-functions
 INCPATH = -I./include
 
 CPP_FILES := $(wildcard src/*.cpp)
-OBJS = $(addprefix output/, util.o dlog.o)
+OBJS = $(addprefix output/, dlog_util.o dlog.o)
 
 .PHONY: all clean
 

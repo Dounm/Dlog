@@ -3,11 +3,11 @@
 * @author Chong Niu <niuchong893184@gmail.com>
 */
 
+#include "dlog.h"
 #include <stdlib.h>
 #include <iostream>
 #include <time.h>
-#include "util.h"
-#include "dlog.h"
+#include "dlog_util.h"
 
 namespace dlog{
 

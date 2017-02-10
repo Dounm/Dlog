@@ -1,9 +1,9 @@
 /**
-* @file util.h
+* @file dlog_util.cpp
 * @author Chong Niu <niuchong893184@gmail.com>
 */
 
-#include "util.h"
+#include "dlog_util.h"
 #include <unistd.h>
 #include <string>
 #include <sstream>
